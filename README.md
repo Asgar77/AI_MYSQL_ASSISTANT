@@ -141,10 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🤖 [Groq](https://groq.com/) for the fast LLM API
 
 ## 📞 Contact & Support
-
-- 🐞 Found a bug? [Open an issue](https://github.com/yourusername/mysql-query-assistant/issues)
-- 💬 Questions? [Discussions](https://github.com/yourusername/mysql-query-assistant/discussions)
-- 📧 Contact: your.email@example.com
+- 📧 Contact: asgarshaik77@gmail.com
 
 ---
 
